@@ -1,6 +1,6 @@
 # Python-Practice
 
-This repository stored all exercise I've done from course below. Normal python file used for simple project based learning, Jupyter Notebook used for numerous exercise when learning certain topics. 
+This repository stored all exercise I've done from course below. Normal python file used for simple project based learning, Jupyter Notebook used for numerous exercise when learning certain topics.
 
 ### [The Modern Python 3 Bootcamp](https://www.udemy.com/course/the-modern-python3-bootcamp/)
 
@@ -16,7 +16,7 @@ Things Learned:
 
 1. Very Basic Python: Assigning variable, create and manipulate user input.
 2. Conditional Logic: to determine the winner based on user or computer choice.
-3. Loop: make replay mechanism and preventing user from using irrelevant input. 
+3. Loop: make replay mechanism and preventing user from using irrelevant input.
 
 ## List Practice
 
@@ -35,3 +35,9 @@ This file stored all dictionary practice from the course, from making simple dic
 `set_and_tuples_practice.ipynb`
 
 This file stored very simple set and tuples practice from the course.
+
+## Functions (Part I) Practice
+
+`function_practice.ipynb`
+
+This files contain all 19 practice from Functions Part I section, focusing on general function, its parameter and argument, and scope.
