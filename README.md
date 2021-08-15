@@ -36,8 +36,8 @@ This file stored all dictionary practice from the course, from making simple dic
 
 This file stored very simple set and tuples practice from the course.
 
-## Functions (Part I) Practice
+## Functions Practice
 
 `function_practice.ipynb`
 
-This files contain all 19 practice from Functions Part I section, focusing on general function, its parameter and argument, and scope.
+This files contain all 22 practice from Functions section, focusing on general function, its parameter and argument, scope, *args and **kargs.
