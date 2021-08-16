@@ -2,7 +2,7 @@
 
 This repository stored all exercise I've done from course below. Normal python file used for simple project based learning, Jupyter Notebook used for numerous exercise when learning certain topics.
 
-### [The Modern Python 3 Bootcamp](https://www.udemy.com/course/the-modern-python3-bootcamp/)
+## [The Modern Python 3 Bootcamp](https://www.udemy.com/course/the-modern-python3-bootcamp/)
 
 _________________________________________
 
@@ -41,3 +41,9 @@ This file stored very simple set and tuples practice from the course.
 `function_practice.ipynb`
 
 This files contain all 22 practice from Functions section, focusing on general function, its parameter and argument, scope, *args and **kargs.
+
+## Built-In Function Practice
+
+`built_in_function_practice.ipynb`
+
+This files stored all built in function exercise such as lambda, filter, map function.
