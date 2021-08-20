@@ -46,4 +46,4 @@ This files contain all 22 practice from Functions section, focusing on general f
 
 `built_in_function_practice.ipynb`
 
-This files stored all built in function exercise such as lambda, filter, map function.
+This files stored all built in function exercise such as lambda, filter, map, any/all, sorted, reversed, min/max, abs/sum/round, zip function.

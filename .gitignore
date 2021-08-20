@@ -1,0 +1,5 @@
+# My Course Notes
+*.md
+# Exception
+!README.md
+
