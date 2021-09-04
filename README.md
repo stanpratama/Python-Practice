@@ -47,3 +47,17 @@ This files contain all 22 practice from Functions section, focusing on general f
 `built_in_function_practice.ipynb`
 
 This files stored all built in function exercise such as lambda, filter, map, any/all, sorted, reversed, min/max, abs/sum/round, zip function.
+
+## Modules
+
+`modules_practice.ipynb`
+
+This files stored all modules exercise. This section discuss about Built-In Modules, Custom Modules, and External Modules.
+
+## HTTP Requests
+
+`dadjokes_generator.py`
+
+Generating a dad jokes from [icanhazdadjoke](https://icanhazdadjoke.com/) by accessing its API with `requests` module.
+
+In this section. I also learned the basic about HTTP and API.
