@@ -61,3 +61,9 @@ This files stored all modules exercise. This section discuss about Built-In Modu
 Generating a dad jokes from [icanhazdadjoke](https://icanhazdadjoke.com/) by accessing its API with `requests` module.
 
 In this section. I also learned the basic about HTTP and API.
+
+## Object Oriented Programming
+
+`oop_exercise.ipynb`
+
+This file stored all OOP exercise from the course's OOP Section, from making simple Class, and learning and creating various instance/methods in Class.
