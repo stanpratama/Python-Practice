@@ -67,3 +67,9 @@ In this section. I also learned the basic about HTTP and API.
 `oop_exercise.ipynb`
 
 This file stored all OOP exercise from the course's OOP Section, from the concept of OOP in general and in python, including inheritance, Method Resolution ORder, Polymorphism and Special Methods.
+
+## Iterators and Generators
+
+`iterator_generator.ipynb`
+
+This file stored all iterator and generator exercise. In this section, we look deeper into how loop mechanism work by learning about iterator, also using generator and its expressions.
