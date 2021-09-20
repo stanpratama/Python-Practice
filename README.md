@@ -73,3 +73,9 @@ This file stored all OOP exercise from the course's OOP Section, from the concep
 `iterator_generator.ipynb`
 
 This file stored all iterator and generator exercise. In this section, we look deeper into how loop mechanism work by learning about iterator, also using generator and its expressions.
+
+## Decorators
+
+`decorators.ipynb`
+
+This section discuss about high order function, and create/modify decorators.
